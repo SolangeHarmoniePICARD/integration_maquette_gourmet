@@ -39,7 +39,11 @@
 #menu{
   z-index: 1 !important;
 }
-
+.line{
+  background-color: #E89000;
+  height: 2px;
+  width: 65px;
+}
 
 /* section1 */
 .presentation{
