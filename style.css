@@ -40,7 +40,7 @@
   z-index: 1 !important;
 }
 .line{
-  background-color: #E89000;
+  background-color: #ff7a0e;
   height: 2px;
   width: 65px;
 }
@@ -55,7 +55,7 @@
   border: 1px black solid;
 }
 .best_and_good{
-  background-color: red;
+  background-color: #ffffff;
 }
 .special_menu{
   background-color: green;
@@ -63,7 +63,7 @@
 
 /* carte de menu */
 .our_menu{
-  background-color: pink;
+  background-color: #f8f9fa;
 }
 
 /* Testimonies */
@@ -73,10 +73,22 @@
 
 /* blog */
 .blog{
-  background-color: violet;
+  background-color: #f8f9fa;
+}
+.btn-light {
+  background-color: #ff7a0e !important;
 }
 
 /* footer */
 .finish{
-  background-color: darkblue;
+  background-color: #ffffff;
+}
+.card-title{
+  color: #ff7a0e;
+}
+.twitter, .facebook, .linkedin, .insta {
+  color: #ff7a0e;
+}
+.quicks_links{
+  color : #ff7a0e;
 }
